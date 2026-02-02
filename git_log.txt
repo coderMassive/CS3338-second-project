@@ -1,0 +1,63 @@
+commit a3a21c5446f62ac41de1ead1840483564e58f83a
+Merge: adc713c 0127303
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 20:39:39 2026 -0800
+
+    merged the branches
+
+commit 01273034b93ac8a817f696ea961aa6a5409fb8f8
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 20:38:17 2026 -0800
+
+    favorite movie
+
+commit adc713cfc731cfe47a1aaa55fbc0001c88f8196e
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 20:36:57 2026 -0800
+
+    added favorite food
+
+commit d4eca693a477f9d837f998d740830cbfcedee79a
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 20:29:27 2026 -0800
+
+    added favorite movie
+
+commit 3b3a7f922dfd76687eb68ef9cf7a211145d1e500
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 20:29:27 2026 -0800
+
+    added favorite movie
+
+commit 3fdeb7dfb2b4693478d1278771932ddf5c1726b2
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 20:28:45 2026 -0800
+
+    added favorite food
+
+commit 6ab75b40fa6ca3b10c9cf4e487705a1f4c4af5a1
+Author: Mark Raspopov <63547351+coderMassive@users.noreply.github.com>
+Date:   Sun Feb 1 20:01:50 2026 -0800
+
+    Added README
+
+commit 856740f9071f66ebe72e002275108209e00498e3
+Merge: 1d2bfc0 bde5466
+Author: Mark Raspopov <63547351+coderMassive@users.noreply.github.com>
+Date:   Sun Feb 1 19:34:24 2026 -0800
+
+    Merge pull request #1 from coderMassive/info-fill
+    
+    filled in the two blanks
+
+commit bde546620b3baea938ced7a3a14e8e965bf2af76
+Author: Mark Raspopov <markraspopov0@gmail.com>
+Date:   Sun Feb 1 19:33:09 2026 -0800
+
+    filled in the two blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
